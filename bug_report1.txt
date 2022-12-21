@@ -1,0 +1,12 @@
+
+1)ИД:А1
+2)Environment: MACОС 11.2.3 Браузер Версия108.0.5359.98(Официальная сборка)(x86_64)      
+3)precondition: Открыть сайт https://capital.comи      
+4)Title: На главной странице в блоке "Markets Heatmap" пустые ячейки с данными
+5)link: https://drive.google.com/file/d/1lKuZWpo_NpE7twAg3fZNgDfn56gf2t0H/view?usp=share_link 
+6)STR: Пролистать до блока "Markets Heatmap   
+7)Ожидаемый результат: Все ячейки  имеют подписи   
+8)Фактический результат: Некоторые ячейки не имеют подписей 
+       
+       
+    
